@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>강릉 라임힐 펜션</title>
+    <link>https://limehill.co.kr/</link>
+    <description>Recent content on 강릉 라임힐 펜션</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language><atom:link href="https://limehill.co.kr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Check-in Information</title>
+      <link>https://limehill.co.kr/checkin_information/</link>
+      <pubDate>Wed, 01 Dec 2021 01:01:01 +0800</pubDate>
+      
+      <guid>https://limehill.co.kr/checkin_information/</guid>
+      <description>체크인 안내문 </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://limehill.co.kr/contact/</link>
+      <pubDate>Wed, 01 Dec 2021 01:01:01 +0800</pubDate>
+      
+      <guid>https://limehill.co.kr/contact/</guid>
+      <description>010-2847-6371</description>
+    </item>
+    
+    <item>
+      <title>Photo</title>
+      <link>https://limehill.co.kr/photo/</link>
+      <pubDate>Wed, 01 Dec 2021 01:01:01 +0800</pubDate>
+      
+      <guid>https://limehill.co.kr/photo/</guid>
+      <description>라임힐 사진 </description>
+    </item>
+    
+    <item>
+      <title>Reservation</title>
+      <link>https://limehill.co.kr/reservation/</link>
+      <pubDate>Wed, 01 Dec 2021 01:01:01 +0800</pubDate>
+      
+      <guid>https://limehill.co.kr/reservation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
